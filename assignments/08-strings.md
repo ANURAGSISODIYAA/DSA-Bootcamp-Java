@@ -21,7 +21,7 @@
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)[✔]
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)[✔]
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
 - [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
@@ -36,7 +36,7 @@
 - [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
 - [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
 - [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
-- [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
+- [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)[✔]
 - [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
 - [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
 - [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
