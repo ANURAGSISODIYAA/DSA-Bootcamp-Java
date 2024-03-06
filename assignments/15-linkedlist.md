@@ -33,10 +33,10 @@
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
 - [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
-- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`[✔]
 - [ Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode` 
 - [ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
-- [Sort List](https://leetcode.com/problems/sort-list/)`leetcode`
+- [Sort List](https://leetcode.com/problems/sort-list/)`leetcode`[✔]
 - [ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)`leetcode`
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/)`leetcode`
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)`leetcode`
